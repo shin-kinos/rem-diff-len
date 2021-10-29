@@ -18,7 +18,7 @@ Required parameters:
 4. Lower sequence length threshold (See more details in the TOML file) 
 5. Upper sequence length threshold (See more details in the TOML file) 
 
-Also, the input sequence data must be in non-aligned Multi-FASTA format. 
+Also, the input sequence data must be in non-aligned Multi-FASTA format. See some exmaple input files in `demo` directory. 
 
 [e.g.]
 
